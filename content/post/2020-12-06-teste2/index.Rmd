@@ -1,0 +1,10 @@
+---
+title: teste2
+author: Takuji
+date: '2020-12-06'
+slug: []
+categories:
+  - R
+tags: []
+draft: no
+---

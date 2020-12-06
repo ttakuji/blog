@@ -1,0 +1,6 @@
+theme: "archie"
+baseURL: http://example.org/
+languageCode: pt-br
+title: My New Hugo Site
+copyright: © Athul
+
