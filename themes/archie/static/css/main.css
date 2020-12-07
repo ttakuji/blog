@@ -289,3 +289,32 @@ content: 'Markdown';
 background: royalblue;
 color: whitesmoke ;
 }
+
+
+/* */
+.pagination {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2em;
+    text-align: center;   
+}
+
+.pagination-item {
+    padding: 0em 0em;
+}
+
+.left {
+  left:0;
+  
+}
+
+.right{
+  right:0;
+}
+.post-pagination .pagination-item {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    max-width: 15em;
+}
+

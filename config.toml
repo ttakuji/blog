@@ -2,7 +2,7 @@ baseURL = "/"
 languageCode = "pt-pt"
 title = "Takuji Takai"
 theme="archie"
-copyright = "© Athul"
+copyright = "© Takuji"
 pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
@@ -14,17 +14,7 @@ pygmentscodefencesguesssyntax = true
 [[params.social]]
 name = "GitHub"
 icon = "github"
-url = "https://github.com/athul/archie"
-
-[[params.social]]
-name = "Twitter"
-icon = "twitter"
-url = "https://github.com/athulcajay/"
-
-[[params.social]]
-name = "GitLab"
-icon = "gitlab"
-url = "https://gitlab.com/athul/"
+url = "https://github.com/ttakuji"
 
 [[menu.main]]
 name = "Tutoriais"
