@@ -55,6 +55,7 @@ a:hover {
 
 ul {
   list-style: none;
+  padding-left: 2ch;
 }
 ul li {
   text-indent: -2ch;
@@ -136,7 +137,7 @@ header {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-  margin: 1em 0;
+  margin: 2em 0;
 }
 
 header .main {
@@ -162,7 +163,7 @@ footer {
 /* Common */
 .title h1 {
   margin-bottom: 0;
-  font-size: 1.4rem;
+  font-size: 1.7rem;
 }
 
 time {
@@ -200,6 +201,8 @@ article .title {
 display: flex;
 justify-content: space-between;
 }
+
+
 
 .tags a{
   border-bottom: 0px solid var(--maincolor); 
@@ -291,7 +294,7 @@ color: whitesmoke ;
 }
 
 
-/* */
+/* style add by me*/
 .pagination {
     display: flex;
     justify-content: space-between;
@@ -316,5 +319,9 @@ color: whitesmoke ;
     text-overflow: ellipsis;
     white-space: nowrap;
     max-width: 15em;
+}
+
+.post-tags {
+  margin-top: 0.5em; 
 }
 
