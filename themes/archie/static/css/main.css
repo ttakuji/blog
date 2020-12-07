@@ -162,6 +162,7 @@ footer {
 /* Common */
 .title h1 {
   margin-bottom: 0;
+  font-size: 1.4rem;
 }
 
 time {
@@ -170,7 +171,7 @@ time {
 
 /* Posts */
 article .title {
-  margin-bottom: 1em;
+  margin-bottom: 0em;
 }
 
 

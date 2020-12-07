@@ -25,25 +25,21 @@ url = "https://github.com/athulcajay/"
 name = "GitLab"
 icon = "gitlab"
 url = "https://gitlab.com/athul/"
+
 [[menu.main]]
-name = "Home"
-url = "/"
+name = "Tutoriais"
+url = "/post"
 weight = 1
 
 [[menu.main]]
-name = "All posts"
-url = "/post"
-weight = 2
-
-[[menu.main]]
-name = "About"
+name = "Sobre"
 url = "/about"
-weight = 3
+weight = 2
 
 [[menu.main]]
 name = "Tags"
 url = "/tags"
-weight = 4
+weight = 3
 
 [markup]
   [markup.goldmark]
