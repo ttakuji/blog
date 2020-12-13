@@ -1,0 +1,28 @@
+---
+title: API no R
+author: ''
+date: '2020-12-13'
+slug: []
+categories: []
+tags:
+  - R
+  - API
+draft: yes
+---
+
+
+```{r}
+## load package
+library(httr)
+library(dplyr)
+    
+## Save GitHub username as variable
+username <- 'janeeverydaydoe'
+
+## Save base endpoint as variable
+url_git <- 'https://api.github.com/'
+
+## Construct API request
+api_response <- GET(url = paste0(url_git, 'users/', username, '/repos'))
+```
+
