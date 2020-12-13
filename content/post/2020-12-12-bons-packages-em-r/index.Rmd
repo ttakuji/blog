@@ -1,0 +1,45 @@
+---
+title: Bons packages em R
+author: Takuji
+date: '2020-12-12'
+slug: [Acénto]
+categories:
+  - R
+  - packages
+  - tutoriais
+tags:
+  - R
+  - packages
+draft: yes
+
+---
+
+```{r include = FALSE}
+knitr::opts_chunk$set(eval = FALSE, collapse = TRUE, comment = NA, tidy = FALSE)
+```
+
+Comecei os cursos básicos de Tidyverse no coursera. Como são cursos introdutórios
+gosto de anotar as dicas que vão aparecendo no meio do caminho. 
+
+
+Nesse primeiro post vou separar os pacotes que são recomendados de se instalar no
+computador.
+
+## Pacote here
+
+```{r, include= FALSE}
+library(here)
+
+```
+
+Utilizado para facilitar os caminhos em diferentes ambientes e computadores.
+Ótimo para utilizar em projetos com a finalidade de não haver problemas de localização de arquivos.
+
+
+## Pacote ProjectTemplate
+
+Cria um diretório para projetos em R. Ótimo para se organizar.
+
+
+
+

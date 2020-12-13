@@ -6,7 +6,6 @@ copyright = "© Takuji"
 pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
-
 disqusShortname = "ezhil-demo"
 
 [params]
