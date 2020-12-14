@@ -1,0 +1,23 @@
+---
+title: Conceito de Tidy data em R
+author: ''
+date: '2020-12-14'
+slug: []
+categories: []
+tags:
+  - R
+  - tidy data
+draft: yes
+---
+
+Retirado do curso que estou fazendo:
+
+Tidy Data Review
+
+Before we move any further, let’s review the requirements for a tidy dataset:
+
+    Each variable is stored in a column
+    Each observation is stored in a row
+    Each cell stores a single value
+
+We had four tidy data principles in an earlier lesson, where the fourth was that each table should store a single type of information. That’s less critical here, as we’ll be working at first with single datasets, so let’s just keep those three tidy data principles at the front of our minds.

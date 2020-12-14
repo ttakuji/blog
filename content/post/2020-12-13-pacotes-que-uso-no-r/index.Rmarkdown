@@ -131,6 +131,39 @@ con <- DBI::dbConnect(RMySQL::MySQL(),
 ```
 
 
+--------
+
+# Pacotes para limpeza de dados
+
+## dplyr
+
+## tidyr
+
+## janitor
+
+    clean_names() - clean names of a data frame
+    tabyl() - get a helpful summary of a variable
+    get_dupes() - identify duplicate observations
+    
+```{r}
+install.packages('janitor')
+library(janitor)
+```
+    
+
+## skimr
+
+skim() - summarize a data frame
+```{r}
+
+install.packages('skimr')
+library(skimr)
+
+```
+ 
+
+
+
 
 
 

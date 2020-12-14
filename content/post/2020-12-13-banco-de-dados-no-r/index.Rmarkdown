@@ -38,6 +38,8 @@ library(dplyr)
 albums <- tbl(db, "albums")
 artists <- tbl(db, "artists")
 
+#não sei porque eu tive que as_tibble no exercicio do módulo
+
 ```
 
 
