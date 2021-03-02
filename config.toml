@@ -11,7 +11,10 @@ disqusShortname = "ezhil-demo"
 [params]
 	mode="dark"
 	useCDN=false
-	subtitle = ". . ."
+	subtitle = "Que tal um pouco de R?"
+
+[permalinks]
+  post = ":slug/"
 
 [[params.social]]
 name = "GitHub"
