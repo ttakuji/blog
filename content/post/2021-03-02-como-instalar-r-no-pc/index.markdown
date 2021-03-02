@@ -8,7 +8,6 @@ tags:
   - R
   - RStudio
 draft: no
-comment: true
 ---
 
 
