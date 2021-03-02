@@ -1,0 +1,63 @@
+---
+title: Como começar a programar no R no windows
+author: ''
+date: '2021-02-28'
+slug: []
+categories: []
+tags: []
+draft: yes
+---
+
+Desde a faculdade uso R e Rstudio para programar.
+
+R é a linguagem de programação. RStudio é a IDE, interface de programação, que facilita (e muito) na hora de escrever códigos. 
+
+
+A seguir vou mostrar como eu faço para instalar em uma máquina windows 10.
+
+## Recomendações:
+
+O R no windows possui alguma dificuldade quando se tem usuários com caracteres especiais, por exemplo, João.
+Recomendo que utilize sempre usuários sem caracteres especiais. Isso evita muitas dores de cabeça.
+
+### Instalando o R:
+
+Baixe o arquivo .exe nesse link: [aqui](https://cran.r-project.org/bin/windows/base/)
+
+Além do R, é recomendado instalar o RTools, disponível [aqui](https://cran.r-project.org/bin/windows/Rtools/).
+É uma forma de  rodarem códigos em outras linguagens, não se preocupe.
+
+A instalação é bem simples: clique no arquivo e siga os passos. 
+
+### Instalando o RStudio:
+
+RStudio é uma interface de programação. 
+
+Você pode escrever códigos em R utilizando um bloco de notas ou outro editor de texto, mas utilizando uma interface de programação facilita, e muito, escrever códigos.
+
+A versão para local para desktop é de graça. 
+Você pode realizar o download neste [link](https://rstudio.com/products/rstudio/).
+
+Segue a mesma ideia do R, selecione o arquivo .exe e siga as instruções.
+
+
+## Configuração do RStudio.
+
+
+Abaixo a imagem retirada do livro base para R, [R for data science](https://r4ds.had.co.nz/), apresentando a interface do Rstudio. 
+
+No Editor, temos um script chamado mpg-color.R sendo exibido. Aqui será onde é escrito/editado o código. É o lugar mais fácil de escrever por ser possível destacar códigos e variáveis. VOcê pode criar um clicando em File -> New File -> R Script.
+
+O Console é onde roda o código, podemos rodar comandos por aqui, mas, como podem ver, o código escrito aqui não possui firulas que podem nos ajudar. 
+
+E Output é onde os gráficos serão exibidos. Nesse mesmo lugar é possível ver na aba "Files" pastar e arquivos. 
+
+![print screen da interface de R](images/rstudio-editor.png)
+
+
+Acho que por hoje já está bom! 
+
+
+
+  
+
