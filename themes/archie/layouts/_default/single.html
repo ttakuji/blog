@@ -55,14 +55,17 @@
     </div>
 {{ end }}
 
-
-<script src="https://utteranc.es/client.js"
+		{{ if isset .Params "comment" }}
+		{{ else }}
+		<script src="https://utteranc.es/client.js"
         repo="ttakuji/blog"
         issue-term="title"
         label="comment"
         theme="github-dark"
         crossorigin="anonymous"
         async>
-</script>
+    </script>
+		{{ end }}
+
 </main>
 {{ end }}

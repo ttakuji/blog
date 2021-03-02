@@ -1,28 +1,24 @@
 +++
-title = "About"
-description = "Hugo, the world’s fastest framework for building websites"
+title = "Sobre"
+description = "Sobre"
 date = "2019-02-28"
-aliases = ["about-us","about-hugo","contact"]
-author = "Hugo Authors"
+aliases = ["about-us","contact"]
+author = "Yohan Takuji Takai"
+comment = 'FALSE'
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Olá!
 
-Hugo makes use of a variety of open source projects including:
+Sou Yohan Takuji Takai, mais conhecido por Takuji, as vezes por Yohan. 
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+Formado em matemática aplicada e computacional pela Universidade de São Paulo em 2017.
+Desde a iniciação científica tenho interesse na área de pesquisa de mercado, comecei com a área de 
+saúde, para ser mais específico, termos utilizados na prescrição de adaptação de cadeiras de rodas, e, atualmente, 
+lido com os dados no setor de cultura. 
+Em 2014 fui apresentado ao mundo de R em uma disciplina na faculdade, desde então procuro saber mais sobre 
+a linguagem R e Tidyverse. 
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
-
+Este site foi criado para organizar o meu conhecimento de R e indicar outros sites/blogs que possam ser úteis para
+a comunidade R. 
 
 
