@@ -10,8 +10,9 @@ tags:
 draft: no
 ---
 
+Indicações de onde baixar os arquivos executáveis do R e do RStudio. <!--more-->
 
-Desde a faculdade uso R e Rstudio para programar.
+Desde a faculdade uso R e Rstudio para programar. 
 
 R é a linguagem de programação. RStudio é a IDE, interface de programação, que facilita (e muito) na hora de escrever códigos. 
 
@@ -50,6 +51,6 @@ Segue a mesma ideia do R, selecione o arquivo .exe e siga as instruções.
 
 Aqui você pode achar outros materias a instalação de R e RStudio:
 
-- [Playlist](https://www.youtube.com/playlist?list=PLRPB0ZzEYegOZivdelOuEn-R-XUN-DOjd) de vídeos da Danielle Navarro no youtube. 
+- [Playlist](https://www.youtube.com/playlist?list=PLRPB0ZzEYegOZivdelOuEn-R-XUN-DOjd) de vídeos da Danielle Navarro no youtube. (Em inglês, mas tem para todos os sistemas operacionais. )
 
 

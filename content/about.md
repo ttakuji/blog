@@ -20,5 +20,3 @@ a linguagem R e Tidyverse.
 
 Este site foi criado para organizar o meu conhecimento de R e indicar outros sites/blogs que possam ser úteis para
 a comunidade R. 
-
-
