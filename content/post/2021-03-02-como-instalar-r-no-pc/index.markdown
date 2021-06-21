@@ -45,7 +45,19 @@ Segue a mesma ideia do R, selecione o arquivo .exe e siga as instruções.
 
 ## Configuração do RStudio.
 
-![print screen da interface de R](images/rstudio-editor.png)
+É importante saber os nomes dos espaços:
+
+Superior esquerda: Editor, parte que você irá digitar o código 
+Inferior esquerda: Console, parte que você pode rodar os códigos
+Superior direita: Ambiente, histórico ... , aqui você pode ver quais variáveis foram criadas e o históricos de comandos realizados.
+Inferior direita: Output, saída, quando realizar plot
+
+
+
+{{< figure src="images/rstudio-editor.png" title="imagem retirada do livro: R for Data Science de Hadley e Garret Grolemund" >}}
+
+
+
 
 -----------
 
